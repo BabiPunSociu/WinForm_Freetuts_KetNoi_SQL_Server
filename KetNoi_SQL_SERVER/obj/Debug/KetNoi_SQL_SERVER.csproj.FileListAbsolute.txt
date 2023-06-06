@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\bin\Debug\KetNoi_SQL_SERVER.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\bin\Debug\KetNoi_SQL_SERVER.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\bin\Debug\KetNoi_SQL_SERVER.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\KetNoi_SQL_SERVER\KetNoi_SQL_SERVER\obj\Debug\KetNoi_SQL_SERVER.pdb
